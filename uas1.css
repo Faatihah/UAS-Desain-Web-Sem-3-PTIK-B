@@ -1,0 +1,65 @@
+#Nav1 {
+    color: aqua;
+}
+.html {
+    scroll-behavior: smooth;
+}
+.navbar {
+    background-color:rgba(234, 243, 114, 0.726);
+    font-family: sans-serif;
+    color:rgba(234, 243, 114, 0.726);
+}
+.navbar a{
+    color:#373a40;
+    font-size: medium;
+}
+.nav-link, .navbar-brand{
+    cursor: pointer;
+}
+
+.nav-link:hover{
+    color:white;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.navbar-toggler-icon{
+    color: #373a40;
+}
+header h1 {
+    padding: 30px 0;
+    color: aquamarine;
+    background-color: azure;
+}
+
+#galeri {
+    min-width: 100%;
+}
+#carousel img{
+    height: 370px;
+}
+
+#carousel2 img{
+    height: 370px;
+}
+
+#carousel3 img{
+    height: 370px;
+}
+
+#carousel4 img{
+    height: 370px;
+}
+#footer {
+    background-color:#dbf6e9;
+    margin-top: 40px;
+    min-width: 100%;
+    padding-left: 50px;
+}
+
+#footer1 {
+    margin-top: 10px;
+    text-align: center;
+}
